@@ -10,7 +10,7 @@
     src: url("PolarVortex-raAA.ttf") format("truetype");
     }
 body {
-    color: "white";
+    color: "green";
     background-image: url("underquale.jpg");
     background-size: cover;
     background-position: center;
